@@ -5,3 +5,19 @@
   text-align: center;
 }
 
+@import url("https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap");
+
+.App {
+  font-family: "Press Start 2P";
+  text-align: center;
+  background-color: #ffcc00;
+  color: #0075be;
+  min-height: 100vh;
+  margin: 0px;
+  padding: 0;
+}
+
+h1 {
+  margin: 0;
+  padding: 0;
+}
